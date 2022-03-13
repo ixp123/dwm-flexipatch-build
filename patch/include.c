@@ -1,0 +1,35 @@
+/* Bar functionality */
+#include "bar_indicators.c"
+#include "bar_tagicons.c"
+
+#include "bar_ltsymbol.c"
+#include "bar_powerline_status.c"
+#include "bar_powerline_tags.c"
+#include "bar_status.c"
+#include "bar_status2d.c"
+#include "bar_statuscolors.c"
+#include "bar_wintitle.c"
+
+/* Other patches */
+#include "attachx.c"
+#include "cool_autostart.c"
+#include "cyclelayouts.c"
+#include "fullscreen.c"
+#include "mpdcontrol.c"
+#include "push_no_master.c"
+#include "restartsig.c"
+#include "rotatestack.c"
+#include "shiftview.c"
+#include "shiftviewclients.c"
+#include "swallow.c"
+#include "tab.c"
+#include "togglefullscreen.c"
+#include "vanitygaps.c"
+#include "warp.c"
+/* Layouts */
+#include "layout_facts.c"
+#include "layout_fibonacci.c"
+#include "layout_grid.c"
+#include "layout_monocle.c"
+#include "layout_tile.c"
+
